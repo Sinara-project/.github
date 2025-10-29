@@ -1,5 +1,5 @@
 
-# Sinara 
+# Sinara ![Alt text](tubalao.png)
 
 Transformar o fluxo de dados do chão de fábrica do ETA em um processo totalmente digital, simples e ágil, garantindo maior precisão e eficiência no controle do consumo de água.
 
